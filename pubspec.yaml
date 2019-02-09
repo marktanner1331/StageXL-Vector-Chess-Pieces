@@ -1,0 +1,12 @@
+name: chess_pieces
+description: Main Menu is a package for StageXL which allows developers to easily add a main menu to their project.
+
+version: 1.0.1
+author: Mark Tanner <admin@64bitdragon.com>
+homepage: https://github.com/marktanner1331/StageXL-Main-Menu
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  stagexl: ^1.1.0
