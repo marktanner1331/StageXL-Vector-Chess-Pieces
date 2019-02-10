@@ -1,7 +1,7 @@
 name: stagexl_chess_pieces
 description: A package for StageXL that lets developers add high quality vector chess pieces to their project.
 
-version: 1.0.0
+version: 1.0.1
 author: Mark Tanner <admin@64bitdragon.com>
 homepage: https://github.com/marktanner1331/StageXL-Vector-Chess-Pieces
 
