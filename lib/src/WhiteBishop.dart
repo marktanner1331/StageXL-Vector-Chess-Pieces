@@ -1,4 +1,5 @@
 import 'package:stagexl/stagexl.dart';
+
 //(?:graphics\.)?curveTo(\([\d.]+, ?[\d.]+)(, ?[\d.]+, ?[\d.]+)\);
 //graphics.bezierCurveTo$1$2$2\);
 class WhiteBishop extends Sprite {
